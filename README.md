@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/ignacio-chirinos-palacios-830a6b213/" target="_blank"><img src="https://icon-library.com/images/linkedin-icon-small/linkedin-icon-small-21.jpg" with="100" height="11" /></a>
+  <a href="https://www.linkedin.com/in/ignacio-chirinos-palacios-830a6b213/" target="_blank"><img src="https://icon-library.com/images/linkedin-icon-small/linkedin-icon-small-21.jpg" with="100" height="100" /></a>
 
 ### Hi there 👋
 
