@@ -1,3 +1,6 @@
+<p align="center">
+  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=miguelgfierro" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Follow%20Miguel-blue?logo=linkedin" /></a>
+
 ### Hi there 👋
 
 <!--
