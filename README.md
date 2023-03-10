@@ -2,7 +2,7 @@
   <a href="https://www.linkedin.com/in/ignacio-chirinos-palacios-830a6b213/" target="_blank"><img src="https://icon-library.com/images/linkedin-icon-small/linkedin-icon-small-21.jpg" with="50" height="50" /></a>
 
 ### Hi there 👋 my name is Ignacio Chirinos
-Estudiante de noveno ciclo de la carrera de Ingeniería electrónica en la Universidad de Ingeniería y Tecnología (UTEC) y con conocimiento adicionales en Inteligencia Artificial en la universidad IE de Madrid. Nacido en Lima, con crecimiento primario y secundario en Arequipa, colegio Anglo Americano Prescott graduado del bachillerato Internacional.
+Estudiante de noveno ciclo de la carrera de Ingeniería electrónica en la Universidad de Ingeniería y Tecnología (UTEC) y con conocimiento adicionales en Inteligencia Artificial en la universidad IE de Madrid.
 
 Desarrollo de base de datos recommendation systems, sistemas IoT con conexión a AWS, desarrollo de Alexa Skill y sistemas de Computer Vision.
 
