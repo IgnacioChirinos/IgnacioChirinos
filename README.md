@@ -5,7 +5,10 @@
 Estudiante de noveno ciclo de la carrera de Ingeniería electrónica en la Universidad de Ingeniería y Tecnología (UTEC) y con conocimiento adicionales en Inteligencia Artificial en la universidad IE de Madrid.
 
 Desarrollo de base de datos, recommendation systems, sistemas IoT con conexión a AWS, desarrollo de Alexa Skill y sistemas de Computer Vision.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Student of the ninth cycle of the Electronic Engineering career at the University of Engineering and Technology (UTEC) and with additional knowledge in Artificial Intelligence at the IE University of Madrid.
 
+Database development, recommendation systems, IoT systems with connection to AWS, Alexa Skill development and Computer Vision systems.
 <!--
 **IgnacioChirinos/IgnacioChirinos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
